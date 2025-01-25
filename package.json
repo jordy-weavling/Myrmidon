@@ -1,0 +1,22 @@
+{
+  "name": "myrmidon",
+  "version": "1.0.0",
+  "description": "One trading bot to rule them all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordy-weavling/Myrmidon.git"
+  },
+  "author": "jordy-weavling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordy-weavling/Myrmidon/issues"
+  },
+  "homepage": "https://github.com/jordy-weavling/Myrmidon#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
